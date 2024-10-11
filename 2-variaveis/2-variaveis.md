@@ -1,5 +1,5 @@
 # Capitulo 2 - Variáveis
-
+[🔙 Voltar](../README.md)
 ## O que são variáveis
 
 As variáveis são recursos fundamentais na programação, permitindo que um programa armazene e acesse informações na memória do computador por meio de nomes definidos. Em Python, as variáveis podem manipular diferentes tipos de dados, como strings (cadeias de caracteres), números inteiros e números reais. Para criar uma variável, basta atribuir um valor a um nome utilizando o símbolo "=". 
@@ -46,4 +46,3 @@ numero = input("Digite um número: ")
 numero_inteiro = int(input("Digite um número inteiro (int): "))
 numero_quebrado = float(input("Digite um número quebrado (float): "))
 ```
-

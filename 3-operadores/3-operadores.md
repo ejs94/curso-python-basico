@@ -1,5 +1,5 @@
 # 3 - Operadores
-
+[🔙 Voltar](../README.md)
 ## O que são comentários?
 
 Comentários não afetam a execução do código e não influenciam seu funcionamento.

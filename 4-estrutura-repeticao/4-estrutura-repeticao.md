@@ -1,5 +1,5 @@
 # 4 - Estruturas de Decisão
-
+[🔙 Voltar](../README.md)
 ## O que é?
 As estruturas de decisão são elementos da programação que permitem que o código execute diferentes ações com base em condições que retornam `True` ou `False`. Por exemplo, uma condição como `valor > 10` determina o fluxo do programa, permitindo a execução de blocos de código conforme a veracidade da condição.
 

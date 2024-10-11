@@ -4,9 +4,9 @@ Este repositório fornece um curso introdutório de Python, destinado a iniciant
 
 ## Estrutura do Repositório
 
-- **/2-variaveis**: [Introdução às variáveis e seus tipos.](.\2-variaveis\2-variaveis.md)
-- **/3-operadores**: [Exploração dos operadores em Python.](.\3-operadores\3-operadores.md)
-- **/4-estrutura-repeticao**: [Entenda como tomar decisões no código.](.\4-estrutura-repeticao\4-estrutura-repeticao.md)
+- **/2-variaveis**: [Introdução às variáveis e seus tipos.](2-variaveis/2-variaveis.md)
+- **/3-operadores**: [Exploração dos operadores em Python.](3-operadores/3-operadores.md)
+- **/4-estrutura-repeticao**: [Entenda como tomar decisões no código.](/4-estrutura-repeticao/4-estrutura-repeticao.md)
 - **/estruturas_de_repeticao**: Aprenda sobre loops e iterações. *WIP*
 - **/estruturas_de_dados**: Conheça as principais estruturas de dados. *WIP*
 - **/funcoes**: Compreenda como definir e utilizar funções. *WIP*

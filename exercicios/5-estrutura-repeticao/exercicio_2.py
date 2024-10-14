@@ -1,0 +1,2 @@
+# 1. Escreva um programa que solicita que o usuário digite o nome e a idade, e imprime uma mensagem na tela. 
+# 2. O programa deverá então repetir a pergunta até que o usuário digite a palavra ‘fim’ no lugar do nome.

@@ -1,0 +1,1 @@
+# Faça um algoritmo que mostre na tela todos os números ímpares de 0 a 100.

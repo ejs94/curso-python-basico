@@ -1,5 +1,5 @@
 # 7 - Funções
-
+[🔙 Voltar](../README.md)
 ## O que é?
 
 Uma função é um trecho de código projetado para resolver um problema específico, muitas vezes como parte de uma solução maior. Utilizar funções traz várias vantagens:

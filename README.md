@@ -7,11 +7,12 @@ Este repositório fornece um curso introdutório de Python, destinado a iniciant
 - **/2-variaveis**: [Introdução às variáveis e seus tipos.](2-variaveis/2-variaveis.md)
 - **/3-operadores**: [Exploração dos operadores em Python.](3-operadores/3-operadores.md)
 - **/4-estrutura-decisao**: [Entenda como tomar decisões no código.](/4-estrutura-decisao/4-estrutura-decisao.md)
-- **/5-estruturas-de-repeticao**: Aprenda sobre loops e iterações. *WIP*
-- **/6-estruturas-de-dados**: Conheça as principais estruturas de dados. *WIP*
-- **/7-funcoes**: Compreenda como definir e utilizar funções. *WIP*
-- **/8-classes-e-objetos**: Introdução à programação orientada a objetos. *WIP*
-- **/9-bibliotecas**: Descubra como usar bibliotecas externas. *WIP*
+- **/5-estruturas-de-repeticao**: [Aprenda sobre loops e iterações.](5-estrutura-repeticao\5-estrutura-repeticao.md)
+- **/6-estruturas-de-dados**: [Conheça as principais estruturas de dados.](6-estrutura-dados\6-estrutura-dados.md)
+- **/7-funcoes**: [Compreenda como definir e utilizar funções.](7-funcoes\7-funcoes.md)
+- **/8-classes-e-objetos**: [Introdução à programação orientada a objetos.](8-classes-objetos\8-classes-objetos.md)
+- **/9-1-bibliotecas**: [Descubra como usar bibliotecas externas.](9-bibliotecas\9-1-bibliotecas.md)
+- **/9-2-modulos**: [Aprenda a utilizar módulos e a função main.](9-bibliotecas/9-2-modulos.md)
 
 ## Como Contribuir 💁‍♂️
 

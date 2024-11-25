@@ -1,5 +1,5 @@
 # 9.2 - Módulo
-
+[🔙 Voltar](../README.md)
 ### O que é um Módulo?
 
 Um módulo em Python é um arquivo que contém definições e implementações de funções, classes e variáveis que podem ser reutilizadas em outros programas. Criar módulos permite organizar o código de forma mais eficiente e promover a reutilização.

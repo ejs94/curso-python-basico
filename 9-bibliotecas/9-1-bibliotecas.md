@@ -1,5 +1,5 @@
 # 9 - Bibliotecas
-
+[🔙 Voltar](../README.md)
 ### O que são Bibliotecas?
 
 Bibliotecas são coleções de funções e métodos que realizam tarefas específicas, facilitando o desenvolvimento de software. Elas permitem que os programadores reutilizem código, economizando tempo e esforço na criação de funcionalidades comuns.

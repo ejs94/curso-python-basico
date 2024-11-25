@@ -1,0 +1,1 @@
+# Importe a biblioteca `math` e utilize-a para calcular a raiz quadrada do número 9.

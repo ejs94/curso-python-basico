@@ -1,0 +1,1 @@
+# Escreva uma função que recebe uma lista de números e calcula a sua média.

@@ -1,0 +1,1 @@
+# Escreva uma função que recebe dois números e calcula sua média.

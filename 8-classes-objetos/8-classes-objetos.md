@@ -1,5 +1,6 @@
 # 8 - Classes e Objetos
 [🔙 Voltar](../README.md)
+
 ### O que é?
 
 Uma classe define características e comportamentos, enquanto um objeto é uma instância concreta dessa classe, com atributos e comportamentos específicos.
@@ -37,14 +38,13 @@ print(f"{pikachu.nome} tem {pikachu.vida} de vida restante.")
 
 **Resultado esperado:**
 
-- O programa simula ataques entre Pikachu e Charizard, mostrando a quantidade de dano causado e a vida restante de cada Pokémon.
+- O programa simula ataques entre `Pikachu` e `Charizard`, mostrando a quantidade de dano causado e a vida restante de cada `Pokémon`.
 
 Essa abordagem ilustra como as classes e objetos podem ser usados para modelar comportamentos e interações em um programa.
 
 ---
 
 # 8 - Classes e Objetos: Herança
-
 
 ## O que é Herança?
 
@@ -68,7 +68,10 @@ class Charizard(Pokemon):
         print(f"{self.nome} usa Lança-Chamas em {outro.nome} e causa {dano} de dano!")
 ```
 
+Esse exemplo demonstra como a herança permite que subclasses como `Pikachu` e `Charizard` compartilhem características da classe `Pokemon` ao mesmo tempo em que implementam comportamentos específicos.
+
 ---
+
 # 8 - Classes e Objetos: Polimorfismo
 
 ## O que é Polimorfismo?
@@ -94,6 +97,43 @@ print(f"{pikachu.nome} tem {pikachu.vida} de vida restante.")
 
 ### Resultado esperado:
 
-- O programa simula ataques entre Pikachu e Charizard, mostrando como cada um utiliza seu próprio método `atacar`, com diferentes danos.
+- O programa simula ataques entre `Pikachu` e `Charizard`, mostrando como cada um utiliza seu próprio método `atacar`, com diferentes danos.
 
 Esse exemplo ilustra como a herança e o polimorfismo podem ser usados para criar um sistema mais flexível e organizado em programação orientada a objetos.
+
+---
+
+# 8 - Classes e Objetos: Verificação de Tipo com isinstance()
+
+## O que é?
+
+A função `isinstance()` é uma função embutida em Python que verifica se um objeto é uma instância de uma classe ou de uma tupla de classes. É útil para garantir que um objeto é do tipo esperado antes de realizar operações com ele.
+
+### Sintaxe:
+```python
+isinstance(objeto, classe)
+```
+
+- **objeto:** O objeto que você deseja verificar.
+- **classe:** A classe ou tupla de classes contra a qual você deseja realizar a verificação.
+
+### Exemplo de Uso
+
+Aqui está um exemplo que demonstra como usar `isinstance()` para verificar tipos de objetos:
+
+```python
+# Verificando se um objeto é uma instância da classe Pokemon
+pikachu = Pokemon("Pikachu", 100)
+
+if isinstance(pikachu, Pokemon):
+    print(f"{pikachu.nome} é um Pokémon.")
+else:
+    print(f"{pikachu.nome} não é um Pokémon.")
+```
+
+**Resultado esperado:**
+```
+Pikachu é um Pokémon.
+```
+
+Esse exemplo mostra como a função `isinstance()` pode ser utilizada para garantir que um objeto pertence a uma classe específica, contribuindo para a robustez do código.
